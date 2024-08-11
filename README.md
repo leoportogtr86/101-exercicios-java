@@ -127,6 +127,3 @@ mente o algoritmo QuickSort para ordenar um array.
 100. **Otimização de desempenho:** Implemente técnicas para identificar e otimizar gargalos de desempenho em uma
      aplicação Java.
 101. **Refatoração de código:** Pegue um código legado e refatore-o para melhorar a legibilidade e eficiência.
-
-Essa lista cobre uma ampla gama de tópicos e deve fornecer uma base sólida para o aprendizado e aprimoramento em Java.#   1 0 1 - e x e r c i c i o s - j a v a  
- 
