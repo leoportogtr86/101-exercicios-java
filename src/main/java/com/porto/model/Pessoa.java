@@ -1,4 +1,4 @@
-package com.porto;
+package com.porto.model;
 
 public class Pessoa {
     private String nome;
@@ -48,3 +48,5 @@ public class Pessoa {
 //26. **Construtores:** Adicione um construtor à classe "Pessoa" que
 // inicialize os atributos nome e idade.
 
+//29. **Encapsulamento:** Adicione métodos getter e setter à classe
+// "Pessoa" para manipular os atributos.

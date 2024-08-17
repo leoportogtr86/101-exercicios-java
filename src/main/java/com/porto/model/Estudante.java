@@ -1,4 +1,4 @@
-package com.porto;
+package com.porto.model;
 
 public class Estudante extends Pessoa {
     private String curso;
